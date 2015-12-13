@@ -41,4 +41,4 @@ event. Eventually it is a basic carpooling system.
 Contact
 ========================================
 
-If you have problems, questions, ideas or suggestions, please contact me on csaszarhuni@gmail.com
+If you have problems, questions, ideas or suggestions, please contact me on csaszarhunor@gmail.com
